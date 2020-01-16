@@ -11,7 +11,7 @@ public class App {
     public static void main(String[] args) {
 
         // Connect to database
-        String hostName = "group-app-db-server.database.windows.net"; // update me
+        String hostName = " group-app-db-server.database.windows.net"; // update me
         String dbName = "group-app-db-name"; // update me
         String user = "group-app-login"; // update me
         String password = "Bardop2020"; // update me
